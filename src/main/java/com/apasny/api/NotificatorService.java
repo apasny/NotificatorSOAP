@@ -7,7 +7,5 @@ public class NotificatorService {
 		String routerSoapApiString = "";
 		System.out.print("Timer task");
 	}
-	
-	
-	
+
 }

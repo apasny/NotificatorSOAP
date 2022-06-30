@@ -10,7 +10,7 @@ public class RestInteraction {
 	public List<String> getUsers() {
 		return new ArrayList<>();
 	}
-	
+
 	public Map<String, String> getTrackings() {
 		return new HashMap<>();
 	}
